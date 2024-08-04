@@ -27,6 +27,10 @@ This project utilizes an Arduino-based system to assist visually impaired indivi
 
     You can install these libraries via the Arduino IDE Library Manager.
 
+## Flowchart
+![image](https://github.com/user-attachments/assets/2ab36c49-b728-46f1-9f8e-b014002ffc5f)
+
+
 ## Hardware Setup
 
 1. **Components:**
