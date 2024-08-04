@@ -76,10 +76,6 @@ The main functionalities of the code are:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ---
 
 Please replace `https://github.com/yourusername/Haptic-Enhanced-Arduino-Based-Smart-Navigation-Cane.git` with your actual GitHub repository URL.
